@@ -10,11 +10,11 @@ transmission system.
 
 \## Contents
 
-\- \*\*Block Diagram\*\* – Overall system architecture
+\- Block Diagram – Overall system architecture
 
-\- \*\*Transmitter Circuit\*\* – LED-based audio transmission circuit
+\- Transmitter Circuit – LED-based audio transmission circuit
 
-\- \*\*Receiver Circuit\*\* – Solar panel-based audio reception circuit
+\- Receiver Circuit – Solar panel-based audio reception circuit
 
 
 
