@@ -18,26 +18,6 @@ enabling short-range optical wireless communication.
 
 ---
 
-# Li-Fi Based Audio Transmission System
-
-## Overview
-This project demonstrates a Li-Fi (Light Fidelity) based audio transmission system
-where audio signals are transmitted wirelessly using visible light instead of radio
-frequency waves.
-
-The system uses an LED as the transmitter and a solar panel as the receiver,
-enabling short-range optical wireless communication.
-
----
-
-## Objectives
-- Demonstrate audio transmission using visible light
-- Design transmitter and receiver circuits
-- Analyze received audio output signal
-- Understand Li-Fi communication principles
-
----
-
 # Materials Used
 
 This directory contains images of the hardware components used
@@ -74,6 +54,5 @@ Each component plays a critical role in optical audio communication.
 - Abishek Ragul S
 - Arun A
 - Perarasan R
-- Kishore Kumar U
+- Kishore Kumar U# Project Internal Setup
 
----
