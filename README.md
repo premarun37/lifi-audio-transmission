@@ -54,5 +54,5 @@ Each component plays a critical role in optical audio communication.
 - Abishek Ragul S
 - Arun A
 - Perarasan R
-- Kishore Kumar U# Project Internal Setup
+- Kishore Kumar U
 
